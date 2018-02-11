@@ -5,16 +5,23 @@ If you would like to try it out, all you would need to do is download the code f
 Copy the job description in a txt file and save it with a descriptive name (e.g. tesla_job_description.txt). Do the same with your resume (e.g. my_resume.txt).
 
 $git clone https://github.com/danielgulloa/jobMatch
+
 $cp tesla_job_description.txt my_resume.txt jobMatch
+
 $python Keyword_Extractor.py tesla_jobdescription.txt my_resume.txt
 
 A file will be created, called Extracted_Keywords.csv, which will have 7 columns and many rows. Here are the first 6 rows of an example I ran:
 
 ,type,skill,job,cv,m1,m2
+
 55,soft,experience,5,2,3,3
+
 60,general,one,5,0,5,5
+
 63,general,learning,4,3,1,1
+
 17,hard,apache,4,1,3,3
+
 40,hard,data,3,15,-12,0
 
 
