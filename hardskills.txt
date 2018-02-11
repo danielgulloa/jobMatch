@@ -1,0 +1,238 @@
+develop
+maintain
+debug
+test
+computer programs
+Programming
+Programmer
+Microsoft
+Microsoft Excel
+MS Excel
+Microsoft Office
+MS Office
+Software Development 
+HTML
+Retention
+SQL
+Modeling
+Modelling
+Analytics
+Apache
+Apache Airflow
+Apache Impala
+Apache Drill
+Apache Hadoop
+Data 
+Certification
+Data Collection
+Datasets
+Business Requirements
+Data Mining
+Data Science
+Visualization
+Technical Guidance
+Client Analytics
+Programming Skills
+Sql Server
+Computer Science
+Statistical Modeling
+Applied Data Science
+Hiring	
+Technical
+Database
+Education
+R
+C
+C++
+C#
+Ruby
+Ruby on Rails
+Weka
+Matlab
+Django
+NetBeans
+IDE
+stochastic
+Marketing
+Mining
+Mathematics
+Forecasts
+Statistics
+Programming
+python
+Python
+Microsoft Sql Server
+MS Sql Server
+NoSql
+No-Sql
+Hadoop
+Spark
+Java
+Algorithms
+Databases
+Numpy
+Pandas
+scikit-learn
+Scikit
+clustering
+classification
+neural networks
+neural network
+tensorflow
+pytorch
+theano
+keras
+Pig
+Adaboost
+Statistics
+Statistical analysis
+machine learning
+data mining
+data science
+data analytics
+data analysis
+regression
+kmeans
+k-means
+kNN
+Bayes
+Bayesian Probability
+Bayesian Estimation
+Bayesian Network
+Forest
+Random Forest
+Decision Tree
+Matrix
+Matrix Factorization
+SVD
+Outlier
+Outlier detection
+Regression Analysis
+Frequent Itemset Mining
+Classification Analysis
+Backpropagation
+Sample
+LogitBoost
+Time Series
+Stochastic Gradient Descent
+Gradient Descent
+PCA
+Principal Component Analysis
+Dynamic
+Dynamic programming
+Clustering
+Classification
+Data-driven
+Algorithms
+Analysis
+Analytical
+Analytics
+Analyze Data
+Applications
+Application Development
+Application Development Methodologies
+Application Development Techniques
+Application Development Tools
+Application Programming Interfaces
+AWS
+AWS Glue
+Architecture
+AROS
+Ars Based Programming
+Aspect Oriented Programming
+Best Practices
+Browsers
+CASE Tools
+Capital management
+Code
+Coding
+Collaboration
+Communication
+Components
+Computer Platforms
+Concurrent Programming
+Computer Science
+Computational complexity
+Constraint-based Programming
+Customer Service
+Database Management Systems
+DBMS
+Database Techniques
+Databases
+Database
+Data
+Data Analytics
+Data Structures
+Debugging
+Design
+Design Patterns
+Development
+Development Tools
+Distributed Computing
+Dimensionality Reduction
+Documentation
+Embedded Hardware
+Emerging Technologies
+Fourth Generation Languages
+Hardware
+HTML Authoring Tools
+HTML Conversion Tools
+Industry Systems
+iOS
+Information Systems
+Implementation
+Interface with Clients
+Interface with Vendors
+Internet
+Languages
+Linux
+Logic
+MacOS
+Math
+Mobile
+Multimedia
+Multi-Tasking
+MXNet
+Object oriented programming
+object oriented
+Operating Systems
+Optimizing
+Organizational
+OS Programming
+Parallel Processing
+Personal
+Physics
+Planning
+Post Object Programming
+Presto
+Problem Solving
+Programming Languages
+Programming Methodologies
+Quality Control
+Relational Databases
+Relational Programming
+Reporting
+Revision Control
+Self-Motivation
+Software
+Structured Query Language (SQL)
+Symbolic Programming
+System Architecture
+System Development
+System Design
+System Programming
+System Testing
+Teamwork
+Technical
+Testing
+Third Generation Languages
+Troubleshooting
+UNIX
+Use Logical Reasoning
+Web
+Web Applications
+Web Platforms
+Web Services
+Windowing Systems
+Windows
+Workstations
