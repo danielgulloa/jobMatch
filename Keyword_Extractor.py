@@ -82,7 +82,7 @@ class Extractor():
     			pass
 		df=pd.DataFrame(self.table,columns=['type','skill','job','cv','m1','m2'])
 		df_sorted=df.sort_values(by=['job','cv'], ascending=[False,False])
-		df_sorted.to_csv(self.outFile)
+		df_sorted.to_csv(self.outFile, columns=['type','skill','job','cv'],index=False)
 
 	def printMeasures(self):
 		n_rows=len(self.table)		
@@ -101,8 +101,7 @@ class Extractor():
 			print("Cosine similarity for "+type+" skills: "+str(self.measure3(v1,v2)))		
 
 
-	def makeTable(self):
-		
+	def makeTable(self):		
 		#I am interested in verbs, nouns, adverbs, and adjectives
 		parts_of_speech=['CD','JJ','JJR','JJS','MD','NN','NNS','NNP','NNPS','RB','RBR','RBS','VB','VBD','VBG','VBN','VBP','VBZ']
 		graylist=["you", "will"]
